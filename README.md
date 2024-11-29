@@ -53,8 +53,37 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![Screenshot 2024-11-28 173839](https://github.com/user-attachments/assets/01d197dc-2ca4-463b-a7e8-2a4d8b4ff157)
+INFO:
 
+![Screenshot 2024-11-29 091631](https://github.com/user-attachments/assets/7aeaca0e-be19-4feb-92e7-b584dbd983e0)
+
+HEAD:
+
+![Screenshot 2024-11-29 091647](https://github.com/user-attachments/assets/5a55c1f5-2445-4ede-a97f-b9c8c51beeb6)
+
+POSITION:
+
+![Screenshot 2024-11-29 091656](https://github.com/user-attachments/assets/bf49af4d-61be-4cbd-a78b-c9f097e0aaef)
+
+SALARY:
+
+![Screenshot 2024-11-29 091704](https://github.com/user-attachments/assets/1e5b9f53-12cb-42cc-b188-a03e0529d80f)
+
+
+SELECTION:
+
+![Screenshot 2024-11-29 091712](https://github.com/user-attachments/assets/96d79d4a-f64b-41c8-9d33-d0ec8cdd138b)
+
+MSE:
+
+![Screenshot 2024-11-29 091718](https://github.com/user-attachments/assets/dbc2d4aa-1a53-4b17-88a6-63a329feddb7)
+
+PREDICTION:
+
+![Screenshot 2024-11-29 091725](https://github.com/user-attachments/assets/56433ace-7b4d-4c80-99c4-b1fda4491d0f)
+
+
+![Screenshot 2024-11-29 091747](https://github.com/user-attachments/assets/c549da97-2034-49f8-9f5b-e0dd7e120a6f)
 
 
 ## Result:
